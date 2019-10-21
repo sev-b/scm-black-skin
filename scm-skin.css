@@ -1,0 +1,30 @@
+#player,#player a{ color:#FFFFFF;  font-size: 11px; font-family: verdana;}
+#player{ background:url(http://static.tumblr.com/su8juwr/3HUmkhox7/preto.png); background-position:bottom; background-color: #00000;}
+#player .mainImage{ background:url(http://static.tumblr.com/su8juwr/T0Zmqtzcm/simplespreto.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/su8juwr/anImqtzda/simplespreto-crop.png); }  
+#player #play,#player #pause{ left:26px; }  
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px;  font-size: 9px; }    
+#player #tooltip{ right:196px; visibility: hidden; }
+#player #timer{ right:120px;  } 
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#000000;  }    
+#player #seekerBuffered{ background-color:#FFFFFF; }
+#player #seekerSliderBase{ background-color:#fff; }  
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/su8juwr/rDsmqtzfz/k_k.png); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:#FFFFFF;}
+#playlist .module{  color:#FFFFFF; background-color:#000000; }
+#playlist h3{ background:url(http://static.tumblr.com/su8juwr/rE6mm184p/pensa.jpg); color:#CFCFCF; background-color:#000000;  }
+#playlist .even{background-color:#000;}
+#playlist .odd{ background-color:#000;}
+#playlist .focus{ background-color:#000; color:#000;}    

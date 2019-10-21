@@ -10,7 +10,7 @@
 #player #previous{ left:0px; }
 #player #next{ left:52px; }
 #player #title{ left:90px;  font-size: 9px; }    
-#player #tooltip{ right:196px; visibility: hidden; }
+#player #tooltip{ right:196px;  }
 #player #timer{ right:120px;  } 
 #player #list{ right:0px; }
 
